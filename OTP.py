@@ -1,5 +1,5 @@
 import random
-print('OTP GENERATOR')S
+print('OTP GENERATOR')
 d = int(input('How many digits of OTP?'))
 out = random.random()
 re = str(out)[-d:]
